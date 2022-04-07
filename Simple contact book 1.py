@@ -1,4 +1,5 @@
 # simple contact book 
+#copyright of this code have Abdirizak abdullahi hussein 
 print('SIMPLE CONTACT BOOK')
 print()
 print('1.Add contact')
